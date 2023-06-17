@@ -134,6 +134,22 @@ namespace JSON_Method
                 Console.WriteLine("Contact Saved Successfully");
             }
         }
+        public void ReadContacts()
+        {
+            if (File.Exists(@"C:\Users\gopal\OneDrive\Desktop\JSON\File.txt"))
+            {
+                using (StreamReader reader = new StreamReader(@"C:\Users\gopal\OneDrive\Desktop\JSON\File.txt"))
+                {
+                    string json = reader.ReadToEnd();
+                    contacts = JsonConvert.DeserializeObject<List<Contact>>(json);
+                }
+                ViewContacts();
+            }
+            else
+            {
+                Console.WriteLine("File not exist");
+            }
+        }
     }
 }
 

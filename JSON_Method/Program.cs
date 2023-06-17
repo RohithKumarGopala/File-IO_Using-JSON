@@ -14,7 +14,8 @@
                 Console.WriteLine("3. View Contacts");
                 Console.WriteLine("4. Delete Contact");
                 Console.WriteLine("5.Save Contact");
-                Console.WriteLine("6. Exit");
+                Console.WriteLine("6.Read Contact");
+                Console.WriteLine("7. Exit");
 
                 Console.Write("Enter your choice (1-5): ");
                 int choice = int.Parse(Console.ReadLine());
@@ -39,6 +40,9 @@
                         addressBook.SaveContact();
                         break;
                     case 6:
+                        addressBook.ReadContacts();
+                        break;
+                    case 7:
                         Console.WriteLine("Exited Successfully");
                         return;
                     default:
