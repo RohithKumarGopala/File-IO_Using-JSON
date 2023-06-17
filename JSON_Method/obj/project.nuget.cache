@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "L7dxYmQu6rzvAWXjvhh5GZ19zORHOoTo0qyxglSsF0tP4kmEJ5mLLHLbwdWgUks4qSYfdH9Cnk3rbOVmo9pbJA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gopal\\source\\repos\\JSON_Method\\JSON_Method\\JSON_Method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gopal\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

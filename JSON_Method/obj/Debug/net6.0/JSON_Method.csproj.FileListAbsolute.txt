@@ -1,0 +1,17 @@
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\bin\Debug\net6.0\JSON_Method.exe
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\bin\Debug\net6.0\JSON_Method.deps.json
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\bin\Debug\net6.0\JSON_Method.runtimeconfig.json
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\bin\Debug\net6.0\JSON_Method.dll
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\bin\Debug\net6.0\JSON_Method.pdb
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\obj\Debug\net6.0\JSON_Method.csproj.AssemblyReference.cache
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\obj\Debug\net6.0\JSON_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\obj\Debug\net6.0\JSON_Method.AssemblyInfoInputs.cache
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\obj\Debug\net6.0\JSON_Method.AssemblyInfo.cs
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\obj\Debug\net6.0\JSON_Method.csproj.CoreCompileInputs.cache
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\obj\Debug\net6.0\JSON_Method.dll
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\obj\Debug\net6.0\refint\JSON_Method.dll
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\obj\Debug\net6.0\JSON_Method.pdb
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\obj\Debug\net6.0\JSON_Method.genruntimeconfig.cache
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\obj\Debug\net6.0\ref\JSON_Method.dll
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\gopal\source\repos\JSON_Method\JSON_Method\obj\Debug\net6.0\JSON_Method.csproj.CopyComplete
